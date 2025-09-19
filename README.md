@@ -4,8 +4,8 @@ TrendStory is an intelligent NLP pipeline that extracts current trending topics 
     
 ---
 
-## 📦 Setup
-
+## 📦 Setup    
+          
 ### Prerequisites
 
 Ensure you have Python 3.8+ and the following dependencies installed:
